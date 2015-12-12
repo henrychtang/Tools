@@ -1,8 +1,0 @@
-<application>
-  <component name="FileTypeManager" version="16">
-    <extensionMap>
-      <removed_mapping ext="gradle" approved="true" type="Groovy" />
-      <mapping ext="gradle" type="PLAIN_TEXT" />
-    </extensionMap>
-  </component>
-</application>
