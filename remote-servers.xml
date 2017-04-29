@@ -1,6 +1,6 @@
 <application>
   <component name="RemoteServers">
-    <remote-server name="21B28HWR-01-Google App Engine" type="gcp-app-engine">
+    <remote-server name="bl21b-SimpleMaths" type="gcp-app-engine">
       <configuration />
     </remote-server>
   </component>
